@@ -1,8 +1,6 @@
 <img align="center" src="./assets/images/familyfun.jpg" />
 
-![family](assets/images/familyfun.jpg)
-
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssemlitz&layout=compact&theme=react" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssemlitz&layout=compact&theme=react" /></a> 
 
 ---
 
@@ -11,7 +9,6 @@
 <p align="center">
 I am a junior developer that graduated from the General Assembly Software Engineering Immersive. On top of coding, I'm also a big Manchester United fan and you can often find me reading or talking about them every day.
 </p> 
-
 
 ---
 
